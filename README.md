@@ -9,3 +9,7 @@ Prep/practice for ML interviews/work.
 4. [Mock Interviews](https://www.pramp.com/#/)
 5. [ML CHEATSHEETS](https://stanford.edu/~shervine/teaching/cs-229/)
 6. [cracking coding interview](https://books.google.ie/books?id=nlgWywAACAAJ&dq=Cracking+the+Coding+Interview&hl=en&sa=X&ei=hUTtUfXVCoSg4gS5v4C4BQ)
+
+## Some interesting courses
+
+[Graphical models and causal inference](https://sites.google.com/view/ubc-math-605d-causality/)
