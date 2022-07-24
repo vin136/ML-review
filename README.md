@@ -1,6 +1,8 @@
 # ML-review
 Prep/practice for ML interviews/work.
 
+[Flash Cards ML](https://github.com/b7leung/MLE-Flashcards)
+
 #Resources
 
 1. [Cracking coding interview](https://www.educative.io/courses/grokking-the-coding-interview)
